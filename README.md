@@ -1,9 +1,11 @@
 <div align="center">
  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG13MDF4ZDR1NGhtaHkzaGVsdHU1MG02NXFzMHNuNTl0YmFteDZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlyLQsbvhciAuKA/giphy.gif"> -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5Z3BpaW1rc2lkMG5wNmR4b2t1a2JqYXFhdWlxZzUxNXVyYmp5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="1000">
+  <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5Z3BpaW1rc2lkMG5wNmR4b2t1a2JqYXFhdWlxZzUxNXVyYmp5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="1000"> -->
  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdya3ZuMTFiZTdvZ21odzBpMjFpZW4zZGJmZTB2a3BoOXJtMG5kbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif"> -->
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm8xNDE0NW45ZHFpNjdkMTl5NTZiejJwN3QzYW96ZHpocjY1MDZ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width=1000
 </div>
 
+<h1 align="center">I am Alex</h1>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
