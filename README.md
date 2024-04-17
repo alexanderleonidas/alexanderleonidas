@@ -5,7 +5,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm8xNDE0NW45ZHFpNjdkMTl5NTZiejJwN3QzYW96ZHpocjY1MDZ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width=1000
 </div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpY3cyOWQwOHd0bndtcWFnZmk0ZzkwcHVkdWdrMW9sbTNpaHhiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3ohs4f2bZ4jSd2q5tS/giphy.gif"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RzYTNpZnB6azBndTYwdDAxaTlqeGMxbzJsYmw4NXg2aTQ3N204aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zWjigLtE4DzZOJ7bsc/giphy.gif"></h1>
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJpY3cyOWQwOHd0bndtcWFnZmk0ZzkwcHVkdWdrMW9sbTNpaHhiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3ohs4f2bZ4jSd2q5tS/giphy.gif" width = 100> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RzYTNpZnB6azBndTYwdDAxaTlqeGMxbzJsYmw4NXg2aTQ3N204aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zWjigLtE4DzZOJ7bsc/giphy.gif" width=100> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I0MmpwMHdlamh2aHd4a295aHJxZ3RvZThyZnlyaDkyOXN6cTF2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WnBWqZBSi0l1hmnDti/giphy.gif" width=100></div>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
