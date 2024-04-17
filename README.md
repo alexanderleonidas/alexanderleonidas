@@ -1,7 +1,7 @@
 <div align="center">
  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG13MDF4ZDR1NGhtaHkzaGVsdHU1MG02NXFzMHNuNTl0YmFteDZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlyLQsbvhciAuKA/giphy.gif"> -->
-  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5Z3BpaW1rc2lkMG5wNmR4b2t1a2JqYXFhdWlxZzUxNXVyYmp5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="35"> -->
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdya3ZuMTFiZTdvZ21odzBpMjFpZW4zZGJmZTB2a3BoOXJtMG5kbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV5Z3BpaW1rc2lkMG5wNmR4b2t1a2JqYXFhdWlxZzUxNXVyYmp5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nPxVvyTWo1aIU/giphy.gif" width="250">
+ <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdya3ZuMTFiZTdvZ21odzBpMjFpZW4zZGJmZTB2a3BoOXJtMG5kbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy2PyFmAFOC7m24/giphy.gif"> -->
 </div>
 
 
@@ -28,8 +28,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderleonidas&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="arjuncvinod" /></a></p></p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br> |
-| ------------- | ------------- |
+<br> 
 
 <!--
 **alexanderleonidas/alexanderleonidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
